@@ -1,0 +1,23 @@
+# Convertidor MP4 a MP3
+
+Este proyecto es un convertidor de archivos de video MP4 a audio MP3.  
+
+## Cómo usarlo
+
+1. Abre el archivo `Untitled-2.html` en tu navegador.
+2. Selecciona el archivo MP4 que quieres convertir.
+3. Haz clic en el botón de convertir para obtener el archivo MP3.
+
+## Características
+
+- Conversión rápida de MP4 a MP3.
+- Compatible con la mayoría de los navegadores modernos.
+- No requiere instalación de programas adicionales.
+
+## Contribuciones
+
+Si quieres mejorar este proyecto, puedes hacer un fork y enviar un pull request.
+
+## Licencia
+
+Este proyecto está bajo la [AMINEORDENADOR]
